@@ -18,7 +18,7 @@ As already mentioned, the repository contains two major components
 - My solution for real world use case.
 
 ### Notes
-- For notes, you should look [here](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/tree/master/Basics).
+- [**Notes**](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/tree/master/Basics).
 
 ### RealWorld Use Cases
 
