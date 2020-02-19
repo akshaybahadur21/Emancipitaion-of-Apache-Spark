@@ -1,7 +1,7 @@
 # Emancipitaion-of-Apache-Spark
 My experiments with Apache Spark for Humans
 
-![Apache Spark](https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Apache_Spark_Logo.svg/1200px-Apache_Spark_Logo.svg.png)
+![Apache Spark](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/WordCount/spark.png)
 
 ## Prerequisites
 - [Official Documentation](https://spark.apache.org/)
