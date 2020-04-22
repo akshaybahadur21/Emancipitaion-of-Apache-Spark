@@ -24,4 +24,5 @@ As already mentioned, the repository contains two major components
 
 - [**WordCount**](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/tree/master/WordCount)
 - [**Rapido use-case for realtime geo location transformation**](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/tree/master/Rapido)
+- [**Ingestion Stream**](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/tree/master/IngestionStream)
 
