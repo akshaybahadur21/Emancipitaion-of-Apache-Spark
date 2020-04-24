@@ -4,59 +4,17 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.akshay.bahadur</groupId>
-    <artifactId>SparkLearning</artifactId>
+    <groupId>groupId</groupId>
+    <artifactId>Basics</artifactId>
     <version>1.0-SNAPSHOT</version>
+
+
     <properties>
-<!--        <spark.version>1.5.1</spark.version>-->
         <spark-version>2.1.0</spark-version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <main.dir>${basedir}/..</main.dir>
     </properties>
     <dependencies>
-        <!-- Spark -->
-<!--       &lt;!&ndash; <dependency>-->
-<!--            <groupId>com.twitter</groupId>-->
-<!--            <artifactId>hbc-core</artifactId> &lt;!&ndash; or hbc-twitter4j &ndash;&gt;-->
-<!--            <version>2.0.2</version> &lt;!&ndash; or whatever the latest version is &ndash;&gt;-->
-<!--        </dependency>&ndash;&gt;-->
-<!--        <dependency>-->
-<!--            <groupId>org.apache.spark</groupId>-->
-<!--            <artifactId>spark-core_2.10</artifactId>-->
-<!--            <version>${spark.version}</version>-->
-<!--        </dependency>-->
-<!--        <dependency>-->
-<!--            <groupId>org.apache.spark</groupId>-->
-<!--            <artifactId>spark-streaming_2.10</artifactId>-->
-<!--            <version>2.1.0</version>-->
-<!--        </dependency>-->
-<!--&lt;!&ndash;        <dependency>&ndash;&gt;-->
-<!--&lt;!&ndash;            <groupId>org.apache.spark</groupId>&ndash;&gt;-->
-<!--&lt;!&ndash;            <artifactId>spark-streaming-kafka_2.10</artifactId>&ndash;&gt;-->
-<!--&lt;!&ndash;            <version>${spark.version}</version>&ndash;&gt;-->
-<!--&lt;!&ndash;        </dependency>&ndash;&gt;-->
-<!--        &lt;!&ndash; https://mvnrepository.com/artifact/org.apache.spark/spark-streaming-kafka-0-10 &ndash;&gt;-->
-<!--        <dependency>-->
-<!--            <groupId>org.apache.spark</groupId>-->
-<!--            <artifactId>spark-streaming-kafka-0-10_2.10</artifactId>-->
-<!--            <version>2.1.0</version>-->
-<!--        </dependency>-->
-
-<!--        <dependency>-->
-<!--            <groupId>org.apache.spark</groupId>-->
-<!--            <artifactId>spark-streaming-twitter_2.10</artifactId>-->
-<!--            <version>${spark.version}</version>-->
-<!--        </dependency>-->
-<!--        <dependency>-->
-<!--            <groupId>org.apache.spark</groupId>-->
-<!--            <artifactId>spark-sql_2.10</artifactId>-->
-<!--            <version>${spark.version}</version>-->
-<!--        </dependency>-->
-<!--        <dependency>-->
-<!--            <groupId>com.twitter</groupId>-->
-<!--            <artifactId>hbc-core</artifactId> &lt;!&ndash; or hbc-twitter4j &ndash;&gt;-->
-<!--            <version>2.2.0</version> &lt;!&ndash; or whatever the latest version is &ndash;&gt;-->
-<!--        </dependency>-->
         <dependency>
             <groupId>org.codehaus.jettison</groupId>
             <artifactId>jettison</artifactId>

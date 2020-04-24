@@ -1,0 +1,1 @@
+This file was for a practical session that didn't make the final course - we'll probably revisit this in the SparkSQL module. I've left it here so nobody thinks they're missing a file!
