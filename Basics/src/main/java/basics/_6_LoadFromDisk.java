@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class F_LoadFromDisk {
+public class _6_LoadFromDisk {
     /**
      *
      * Loading from Disk

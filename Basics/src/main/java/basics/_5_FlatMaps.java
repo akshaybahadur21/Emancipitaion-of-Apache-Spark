@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class E_FlatMaps {
+public class _5_FlatMaps {
     /**
      *
      * Creating a FlatMap

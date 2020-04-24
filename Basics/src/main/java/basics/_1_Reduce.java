@@ -9,7 +9,7 @@ import org.apache.spark.api.java.JavaSparkContext;
 import java.util.ArrayList;
 import java.util.List;
 
-public class A_Reduce {
+public class _1_Reduce {
 
     public static void main(String[] args) {
         List<Double> data = new ArrayList<>();

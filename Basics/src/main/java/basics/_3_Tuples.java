@@ -12,7 +12,7 @@ import scala.Tuple5;
 import java.util.ArrayList;
 import java.util.List;
 
-public class C_Tuples {
+public class _3_Tuples {
     /**
      *
      * Creating a Tuple

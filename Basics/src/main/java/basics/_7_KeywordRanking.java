@@ -11,7 +11,7 @@ import scala.Tuple2;
 import java.util.Arrays;
 import java.util.List;
 
-public class G_KeywordRanking {
+public class _7_KeywordRanking {
     /**
      *
      * Keyword Ranking

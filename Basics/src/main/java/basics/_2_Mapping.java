@@ -9,7 +9,7 @@ import org.apache.spark.api.java.JavaSparkContext;
 import java.util.ArrayList;
 import java.util.List;
 
-public class B_Mapping {
+public class _2_Mapping {
     /**
      *
      * Creating a map
