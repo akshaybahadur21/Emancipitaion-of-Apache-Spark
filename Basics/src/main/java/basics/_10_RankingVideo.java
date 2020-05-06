@@ -10,6 +10,7 @@ import scala.Tuple2;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
 
 public class _10_RankingVideo {
     /**
@@ -24,7 +25,7 @@ public class _10_RankingVideo {
      * */
     @SuppressWarnings("resource")
     public static void main(String[] args) {
-        System.setProperty("hadoop.home.dir","");
+        System.setProperty("hadoop.home.dir","C:\\Akshay GitHub\\winutils-master\\hadoop-2.7.1");
         Logger.getLogger("org.apache").setLevel(Level.WARN);
         SparkConf conf = new SparkConf().setAppName("RankingVideo").setMaster("local[*]"); // local[*] means to run spark locally and
         // and assign all the threads for parallel execution
@@ -106,7 +107,8 @@ public class _10_RankingVideo {
                 .mapToPair(a -> a.swap())
                 .collect()
                 .forEach(System.out::println);
-
+        Scanner scanner = new Scanner(System.in);
+        scanner.nextLine();
         sc.close();
     }
 
@@ -143,7 +145,7 @@ public class _10_RankingVideo {
                 .mapToPair(line ->{
                     String[] cols = line.split(",");
                     return new Tuple2<>(new Integer(cols[0]), new Integer(cols[1]));
-                });
+                }).cache(); //caching for later usage
     }
 
     private static JavaPairRDD<Integer, Integer> setupViewData(JavaSparkContext sc, boolean testMode) {
