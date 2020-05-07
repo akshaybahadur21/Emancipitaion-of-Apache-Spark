@@ -25,7 +25,7 @@ public class _11_Performance {
      * */
     @SuppressWarnings("resource")
     public static void main(String[] args) {
-        System.setProperty("hadoop.home.dir","");
+        System.setProperty("hadoop.home.dir","C:\\Akshay GitHub\\winutils-master\\hadoop-2.7.1");
         Logger.getLogger("org.apache").setLevel(Level.WARN);
         SparkConf conf = new SparkConf().setAppName("Performance").setMaster("local[*]"); // local[*] means to run spark locally and
         // and assign all the threads for parallel execution
