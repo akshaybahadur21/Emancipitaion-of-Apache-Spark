@@ -1,4 +1,4 @@
-package basics;
+package SparkCore;
 
 import org.apache.log4j.Level;
 import org.apache.log4j.Logger;
@@ -7,7 +7,6 @@ import org.apache.spark.api.java.JavaPairRDD;
 import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.api.java.JavaSparkContext;
 import scala.Tuple2;
-import scala.Tuple5;
 
 import java.util.ArrayList;
 import java.util.List;

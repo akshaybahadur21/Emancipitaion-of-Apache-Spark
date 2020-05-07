@@ -1,4 +1,4 @@
-package basics;
+package SparkCore;
 
 import com.google.common.collect.Iterables;
 import org.apache.log4j.Level;
