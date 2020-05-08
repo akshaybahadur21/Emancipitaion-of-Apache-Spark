@@ -6,9 +6,12 @@ import org.apache.spark.sql.Column;
 import org.apache.spark.sql.Dataset;
 import org.apache.spark.sql.Row;
 import org.apache.spark.sql.SparkSession;
+
+import java.util.Scanner;
+
 import static org.apache.spark.sql.functions.*;
 
-public class _2_Datasets {
+public class _02_Datasets {
     /**
      *
      * Exploring Datasets in Spark SQL
@@ -102,8 +105,8 @@ public class _2_Datasets {
                             .and(col("year").geq(2007)));
         modernArtDataset.show();
 
-//        Scanner scanner = new Scanner(System.in);
-//        scanner.nextLine();
+        Scanner scanner = new Scanner(System.in);
+        scanner.nextLine();
         spark.close();
     }
 }

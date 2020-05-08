@@ -11,7 +11,7 @@ import scala.Tuple2;
 import java.util.Arrays;
 import java.util.List;
 
-public class _8_SortAndCoalesce {
+public class _08_SortAndCoalesce {
     /**
      *
      * Sort and Coalesce

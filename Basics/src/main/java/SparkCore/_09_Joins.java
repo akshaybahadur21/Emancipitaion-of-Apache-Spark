@@ -11,7 +11,7 @@ import scala.Tuple2;
 import java.util.ArrayList;
 import java.util.List;
 
-public class _9_Joins {
+public class _09_Joins {
     /**
      *
      * Joins - We can perform joins on RDDs similar to those on SQL.

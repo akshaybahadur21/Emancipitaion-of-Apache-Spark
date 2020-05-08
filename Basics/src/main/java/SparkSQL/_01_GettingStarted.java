@@ -8,7 +8,7 @@ import org.apache.spark.sql.SparkSession;
 
 import java.util.Scanner;
 
-public class _1_GettingStarted {
+public class _01_GettingStarted {
     /**
      *
      * Getting Started with Spark SQL

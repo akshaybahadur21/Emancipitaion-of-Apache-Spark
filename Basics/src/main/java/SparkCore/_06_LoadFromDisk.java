@@ -8,7 +8,7 @@ import org.apache.spark.api.java.JavaSparkContext;
 
 import java.util.Arrays;
 
-public class _6_LoadFromDisk {
+public class _06_LoadFromDisk {
     /**
      *
      * Loading from Disk
