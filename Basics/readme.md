@@ -18,3 +18,9 @@ Topics covered till now
 #### Spark SQL
 - [Getting Started](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_01_GettingStarted.java)
 - [Datasets](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_02_Datasets.java)
+- [Temporary View](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_03_TemporaryView.java)
+- [In-Memory Input Data](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_04_InMemoryInputData.java)
+- [Grouping and Aggregation](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_05_GroupingAndAggregation.java)
+- [Date Formatting](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_06_DateFormatting.java)
+- [Multiple Groupings](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_07_MultipleGroupings.java)
+- [Ordering](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_08_Ordering.java)
