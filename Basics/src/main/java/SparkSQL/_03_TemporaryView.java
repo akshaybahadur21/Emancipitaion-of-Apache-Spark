@@ -46,8 +46,8 @@ public class _03_TemporaryView {
 
         spark.sql("SELECT distinct year from Students order by year").show();
 
-//        Scanner scanner = new Scanner(System.in);
-//        scanner.nextLine();
+        Scanner scanner = new Scanner(System.in);
+        scanner.nextLine();
         spark.close();
     }
 }
