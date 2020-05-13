@@ -9,7 +9,7 @@ Topics covered till now
 - [PairRDD](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkCore/_04_PairRDD.java)
 - [FlatMaps](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkCore/_05_FlatMaps.java)
 - [Load from Disk](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkCore/_06_LoadFromDisk.java)
-- [Search releveance of keywords from a Document](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/SparkCore/_07_KeywordRanking.java)
+- [Search releveance of keywords from a Document](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkCore/_07_KeywordRanking.java)
 - [Sort and Coalesce](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkCore/_08_SortAndCoalesce.java)
 - [Joins](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkCore/_09_Joins.java)
 - [Ranking Courses based on Views](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkCore/_10_RankingVideo.java)
