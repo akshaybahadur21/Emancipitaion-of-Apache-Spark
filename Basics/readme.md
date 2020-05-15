@@ -9,7 +9,7 @@ Topics covered till now
 - [PairRDD](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkCore/_04_PairRDD.java)
 - [FlatMaps](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkCore/_05_FlatMaps.java)
 - [Load from Disk](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkCore/_06_LoadFromDisk.java)
-- [Search releveance of keywords from a Document](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/SparkCore/_07_KeywordRanking.java)
+- [Search releveance of keywords from a Document](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkCore/_07_KeywordRanking.java)
 - [Sort and Coalesce](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkCore/_08_SortAndCoalesce.java)
 - [Joins](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkCore/_09_Joins.java)
 - [Ranking Courses based on Views](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkCore/_10_RankingVideo.java)
@@ -18,3 +18,9 @@ Topics covered till now
 #### Spark SQL
 - [Getting Started](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_01_GettingStarted.java)
 - [Datasets](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_02_Datasets.java)
+- [Temporary View](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_03_TemporaryView.java)
+- [In-Memory Input Data](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_04_InMemoryInputData.java)
+- [Grouping and Aggregation](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_05_GroupingAndAggregation.java)
+- [Date Formatting](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_06_DateFormatting.java)
+- [Multiple Groupings](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_07_MultipleGroupings.java)
+- [Ordering](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_08_Ordering.java)
