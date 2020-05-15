@@ -21,7 +21,7 @@ public class _07_KeywordRanking {
      *          - https://spark.apache.org/docs/latest/rdd-programming-guide.html#transformations
      *          - https://spark.apache.org/docs/latest/rdd-programming-guide.html#actions
      *
-     * Tranform and perform actions on RDD
+     * Transform and perform actions on RDD
      * */
 
     public static void main(String[] args) {
