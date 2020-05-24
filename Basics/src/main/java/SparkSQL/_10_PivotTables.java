@@ -18,6 +18,7 @@ public class _10_PivotTables {
     /**
      * Pivot Table(Taken from Excel, supported by Oracle)
      * It can only be used if you have 2 groupings and aggregation
+     * Pivot can only be done using JAVA Api syntax and not SQL syntax
      *
      */
     @SuppressWarnings("resource")
