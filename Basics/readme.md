@@ -24,3 +24,19 @@ Topics covered till now
 - [Date Formatting](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_06_DateFormatting.java)
 - [Multiple Groupings](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_07_MultipleGroupings.java)
 - [Ordering](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_08_Ordering.java)
+- [DataFrames](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_09_DataFrames.java)
+- [Pivot Table](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_10_PivotTables.java)
+- [Aggregations](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_11_Aggregations.java)
+- [Practical Exercise](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_12_Practical.java)
+- [User Defined Functions](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_13_UDF.java)
+- [Performance](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_14_SQLPerformance.java)
+- [Hash Aggregation](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkSQL/_15_HashAggregations.java)
+
+#### Spark Machine Learning Lib
+- [Introduction](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkML/_01_Introduction.java)
+
+#### Spark Streaming
+- [Introduction](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkStreaming/_01_Introduction.java)
+- [DStream](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkStreaming/_02_DStreams.java)
+- [Aggregation](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkStreaming/_03_Aggregation.java)
+- [Windowing](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkStreaming/_04_Windowing.java)
