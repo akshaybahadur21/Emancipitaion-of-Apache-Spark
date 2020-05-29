@@ -1,4 +1,4 @@
-package SparkStreaming;
+package SparkStreaming.utils;
 
 import java.io.IOException;
 import java.io.PrintWriter;
