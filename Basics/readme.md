@@ -40,3 +40,4 @@ Topics covered till now
 - [DStream](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkStreaming/_02_DStreams.java)
 - [Aggregation](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkStreaming/_03_Aggregation.java)
 - [Windowing](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkStreaming/_04_Windowing.java)
+- [Kafka DStreams](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkStreaming/_05_KafkaDStream.java)
