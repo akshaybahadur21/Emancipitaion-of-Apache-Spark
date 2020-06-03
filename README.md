@@ -19,6 +19,7 @@ As already mentioned, the repository contains two major components
 
 ### Notes
 - [**Notes**](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/tree/master/Basics).
+- [**Interview Questions**](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/tree/master/Interview)
 
 ### RealWorld Use Cases
 
