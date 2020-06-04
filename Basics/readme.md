@@ -41,3 +41,6 @@ Topics covered till now
 - [Aggregation](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkStreaming/_03_Aggregation.java)
 - [Windowing](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkStreaming/_04_Windowing.java)
 - [Kafka DStreams](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkStreaming/_05_KafkaDStream.java)
+- [Structured Streaming](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkStreaming/_06_StructuredStreaming.java)
+- [Windowing](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkStreaming/_07_SSWindowing.java)
+- [Batching](https://github.com/akshaybahadur21/Emancipitaion-of-Apache-Spark/blob/master/Basics/src/main/java/SparkStreaming/_08_SSBatching.java)
