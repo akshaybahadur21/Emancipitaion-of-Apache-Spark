@@ -25,7 +25,7 @@ public class _01_Introduction {
      * */
     @SuppressWarnings("resource")
     public static void main(String[] args) {
-        System.setProperty("hadoop.home.dir","C:\\Akshay GitHub\\winutils-master\\hadoop-2.7.1");
+        System.setProperty("hadoop.home.dir","C:\\Akshay_GitHub\\winutils-master\\hadoop-2.7.1");
         Logger.getLogger("org.apache").setLevel(Level.WARN);
         SparkSession spark = SparkSession.builder().appName("Spark MLLib").master("local[*]")
                                         .config("spark.sql.warehouse","file:///C:/Akshay Github/tmp")
@@ -68,6 +68,7 @@ public class _01_Introduction {
 
         /**
          * 5. Check if the model works or not
+         * Not production ready since we want to predict newer dataset
          * */
         model.transform(inputDataset).show();
         Scanner scanner = new Scanner(System.in);
